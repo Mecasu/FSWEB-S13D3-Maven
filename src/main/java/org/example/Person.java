@@ -11,6 +11,7 @@ public class Person {
         this.firstName=firstName;
         this.lastName=lastName;
         this.age=age;
+
     }
     public Person(String firstName, String lastName, int age, String grade, int number, int identity){
      this(firstName,lastName,age);
